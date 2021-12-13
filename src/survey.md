@@ -1,0 +1,1 @@
+[1] H. Laga, L. V. Jospin, F. Boussaid and M. Bennamoun, "A Survey on Deep Learning Techniques for Stereo-based Depth Estimation," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2020.3032602. [paper](https://ieeexplore.ieee.org/abstract/document/9233988)
