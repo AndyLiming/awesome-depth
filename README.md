@@ -3,12 +3,20 @@
 ## Introduction
 This is a list of published papers/open source codes/useful and interesting projects for **Depth Estimation and other related fields**.
 
+The papers are categorized by paper types, number of cameras/views, camera type etc. The subjects include survey papers, depth/stereo based on different number of views(monocular, binocular and multiple), depth estiamtion for omnidirectional cameras, mainstream datasets and other related fields(camera calibration, depth fusion, depth completion).
+
+The list of each subject can be found by clicking on the corresponding link below.
+
 ## categories
 + [Survey](./src/survey.md)
-+ [Camera Calibration. (includes Stereo, Multi-view, fish-eye, omnidiretional camera calibration)](./src/calibration.md)
 + [Binocular Stereo Matching and Depth Estimation.](./src/binocular.md)
 + [Monocular Depth Estimation.](./src/monocular.md)
 + [Multi View Stereo and Depth Estiamtion](./src/multiview.md)
++ [Omnidirectional/Panoptic Depth Estimation](./src/omnidirectional.md)
++ [Dataset](./src/dataset.md)
 + [Depth Fusion](./src/depthFusion.md)
 + [Depth Completion](./src/completion.md)
-+ [Dataset](./src/dataset.md)
++ [Camera Calibration. (includes Stereo, Multi-view, fish-eye, omnidiretional camera calibration)](./src/calibration.md)
+
+## Notes
+The papers are listed in the usual reference format. For those papers where the original text or the source code can be found, we have included the corresponding links, click on the paper or code after the article information to view it.
