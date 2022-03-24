@@ -12,11 +12,11 @@ The list of each subject can be found by clicking on the corresponding link belo
 + [Binocular Stereo Matching and Depth Estimation.](./src/binocular.md)
 + [Monocular Depth Estimation.](./src/monocular.md)
 + [Multi View Stereo and Depth Estiamtion](./src/multiview.md)
-+ [Omnidirectional/Panoptic Depth Estimation](./src/omnidirectional.md)
++ [Fisheye/Omnidirectional/Panoptic Depth Estimation](./src/omnidirectional.md)
 + [Dataset](./src/dataset.md)
 + [Depth Fusion](./src/depthFusion.md)
 + [Depth Completion](./src/completion.md)
 + [Camera Calibration. (includes Stereo, Multi-view, fish-eye, omnidiretional camera calibration)](./src/calibration.md)
 
 ## Notes
-The papers are listed in the usual reference format. For those papers where the original text or the source code can be found, we have included the corresponding links, click on the paper or code after the article information to view it.
+The papers are listed in the usual reference format. For those papers where the original text or the source code can be found, we have included the corresponding links, click on the *“paper”* or *“code”* after the article information to view it.
