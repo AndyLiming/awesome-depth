@@ -1,9 +1,9 @@
 # Survey and review papers for Depth Estimation 
 
-1. H. Laga, L. V. Jospin, F. Boussaid and M. Bennamoun, "A Survey on Deep Learning Techniques for Stereo-Based Depth Estimation," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, no. 4, pp. 1738-1764, 1 April 2022, doi: 10.1109/TPAMI.2020.3032602. [paper](https://ieeexplore.ieee.org/abstract/document/9233988)
-2. M. Poggi, F. Tosi, K. Batsos, P. Mordohai and S. Mattoccia, "On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2021.3070917. [paper](https://ieeexplore.ieee.org/abstract/document/9395220)
-3. Y. Ming, X. Meng, C. Fan, and H. Yu, "Deep learning for monocular depth estimation: A review," Neurocomputing, vol. 438, pp. 14-33, 2021/05/28/ 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0925231220320014)
-4. Zhao, C., Sun, Q., Zhang, C. et al. Monocular depth estimation based on deep learning: An overview. Sci. China Technol. Sci. 63, 1612–1627 (2020). [paper](https://link.springer.com/article/10.1007/s11431-020-1582-8)
-5. Kun Zhou, Xiangxi Meng, Bo Cheng, "Review of Stereo Matching Algorithms Based on Deep Learning", Computational Intelligence and Neuroscience, vol. 2020, Article ID 8562323, 12 pages, 2020. [paper](https://www.hindawi.com/journals/cin/2020/8562323/)
-6. Hamid, M. S., Abd Manap, N., Hamzah, R. A., & Kadmin, A. F. (2020). Stereo matching algorithm based on deep learning: A survey. Journal of King Saud University-Computer and Information Sciences. [paper](https://www.sciencedirect.com/science/article/pii/S1319157820304493)
-7. Wang, X., Wang, C., Liu, B., Zhou, X., Zhang, L., Zheng, J., & Bai, X. (2021). Multi-view stereo in the Deep Learning Era: A comprehensive revfiew. Displays, 70, 102102. [paper](https://www.sciencedirect.com/science/article/pii/S0141938221001062?msclkid=d81a0bc4d12411ec99dae6be4f6f35f2)
+1. A Survey on Deep Learning Techniques for Stereo-Based Depth Estimation. IEEE TPAMI 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9233988)
+2. On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey. IEEE TPAMI 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9395220)
+3. Deep learning for monocular depth estimation: A review. Neurocomputing 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0925231220320014)
+4. Monocular depth estimation based on deep learning: An overview. Sci. China Technol 2020. [paper](https://link.springer.com/article/10.1007/s11431-020-1582-8)
+5.  Review of Stereo Matching Algorithms Based on Deep Learning. Computational Intelligence and Neuroscience. 2020. [paper](https://www.hindawi.com/journals/cin/2020/8562323/)
+6. Stereo matching algorithm based on deep learning: A survey. Journal of King Saud University-Computer and Information Sciences. 2020. [paper](https://www.sciencedirect.com/science/article/pii/S1319157820304493)
+7. Multi-view stereo in the Deep Learning Era: A comprehensive review. Displays. [paper](https://www.sciencedirect.com/science/article/pii/S0141938221001062?msclkid=d81a0bc4d12411ec99dae6be4f6f35f2)
