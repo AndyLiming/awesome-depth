@@ -19,4 +19,4 @@ The list of each subject can be found by clicking on the corresponding link belo
 + [Camera Calibration. (includes Stereo, Multi-view, fish-eye, omnidiretional camera calibration)](./src/calibration.md)
 
 ## Notes
-The papers are listed in the usual reference format. For those papers where the original text or the source code can be found, we have presented the corresponding links, click on the *“paper”* or *“code”* behind the article information to view it.
+The lists show the Title, name of journal/conference and the year of publication for each paper. For those papers where the original text or the source code can be found, we have presented the corresponding links, click on the *“paper”* or *“code”* behind the article information to view it.
