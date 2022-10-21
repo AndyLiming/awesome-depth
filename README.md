@@ -13,6 +13,7 @@ The list of each subject can be found by clicking on the corresponding link belo
 + [Monocular Depth Estimation.](./src/monocular.md)
 + [Multi View Stereo and Depth Estiamtion](./src/multiview.md)
 + [Fisheye/Omnidirectional/Panoptic Depth Estimation](./src/omnidirectional.md)
++ [Depth estimation of Videos](./src/videoDepth.md)
 + [Dataset](./src/dataset.md)
 + [Depth Fusion](./src/depthFusion.md)
 + [Depth Completion](./src/completion.md)
