@@ -1,0 +1,4 @@
+# Monocular depth estimation
+1. Single-Stage 3D Geometry-Preserving Depth Estimation Model Training on
+Dataset Mixtures with Uncalibrated Stereo Data. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Patakin_Single-Stage_3D_Geometry-Preserving_Depth_Estimation_Model_Training_on_Dataset_Mixtures_CVPR_2022_paper.pdf)
+2. RM-Depth: Unsupervised Learning of Recurrent Monocular Depth in Dynamic Scenes. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hui_RM-Depth_Unsupervised_Learning_of_Recurrent_Monocular_Depth_in_Dynamic_Scenes_CVPR_2022_paper.pdf). [code](https://github.com/twhui/RM-Depth)

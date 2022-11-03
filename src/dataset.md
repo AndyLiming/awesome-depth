@@ -1,0 +1,2 @@
+# Stereo and Depth Datasets
+Open Challenges in Deep Stereo: the Booster Dataset. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ramirez_Open_Challenges_in_Deep_Stereo_The_Booster_Dataset_CVPR_2022_paper.pdf). [web](https://cvlab-unibo.github.io/booster-web/)
