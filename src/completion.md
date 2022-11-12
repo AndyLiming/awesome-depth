@@ -1,0 +1,3 @@
+# Depth Completion
+1. RGB-Depth Fusion GAN for Indoor Depth Completion. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RGB-Depth_Fusion_GAN_for_Indoor_Depth_Completion_CVPR_2022_paper.pdf). 
+2. GuideFormer: Transformers for Image Guided Depth Completion. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rho_GuideFormer_Transformers_for_Image_Guided_Depth_Completion_CVPR_2022_paper.pdf).
