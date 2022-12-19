@@ -8,12 +8,13 @@
 ## Estimate 360$^\circ$ depth maps from **Panoramas**
 
 ### Monocular
-1. OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_OmniFusion_360_Monocular_Depth_Estimation_via_Geometry-Aware_Fusion_CVPR_2022_paper.pdf). [code](https://github.com/yuyanli0831/OmniFusion).
-2. 360MonoDepth: High-Resolution 360° Monocular Depth Estimation. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rey-Area_360MonoDepth_High-Resolution_360deg_Monocular_Depth_Estimation_CVPR_2022_paper.pdf). [code](https://manurare.github.io/360monodepth/)
-3. Unifuse: Unidirectional fusion for 360° panorama depth estimation. IEEE RAL 2021. [paper](https://arxiv.org/abs/2102.03550). [code](https://github.com/alibaba/UniFuse-Unidirectional-Fusion)
-4. Spherical view synthesis for self-supervised 360° depth estimation. 3DV 2019. [paper](https://arxiv.org/abs/1909.08112). [code](https://github.com/VCL3D/SphericalViewSynthesis)
-5. Omnidepth: Dense depth estimation for indoors spherical panoramas. ECCV 2018. [paper](https://arxiv.org/pdf/1807.09620.pdf)
-6. Bifuse: Monocular 360 depth estimation via bi-projection fusion. CVPR 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_BiFuse_Monocular_360_Depth_Estimation_via_Bi-Projection_Fusion_CVPR_2020_paper.html), [code](https://github.com/Yeh-yu-hsuan/BiFuse)
+1. PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation. ECCV 2022. [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-19769-7_12.pdf)
+2. OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_OmniFusion_360_Monocular_Depth_Estimation_via_Geometry-Aware_Fusion_CVPR_2022_paper.pdf). [code](https://github.com/yuyanli0831/OmniFusion).
+3. 360MonoDepth: High-Resolution 360° Monocular Depth Estimation. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rey-Area_360MonoDepth_High-Resolution_360deg_Monocular_Depth_Estimation_CVPR_2022_paper.pdf). [code](https://manurare.github.io/360monodepth/)
+4. Unifuse: Unidirectional fusion for 360° panorama depth estimation. IEEE RAL 2021. [paper](https://arxiv.org/abs/2102.03550). [code](https://github.com/alibaba/UniFuse-Unidirectional-Fusion)
+5. Spherical view synthesis for self-supervised 360° depth estimation. 3DV 2019. [paper](https://arxiv.org/abs/1909.08112). [code](https://github.com/VCL3D/SphericalViewSynthesis)
+6. Omnidepth: Dense depth estimation for indoors spherical panoramas. ECCV 2018. [paper](https://arxiv.org/pdf/1807.09620.pdf)
+7. Bifuse: Monocular 360 depth estimation via bi-projection fusion. CVPR 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_BiFuse_Monocular_360_Depth_Estimation_via_Bi-Projection_Fusion_CVPR_2020_paper.html), [code](https://github.com/Yeh-yu-hsuan/BiFuse)
 
 ### Binocular
 1. 360sd-net: 360◦ stereo depth estimation with learnable cost volume. ICRA 2020. [web](https://albert100121.github.io/360SD-Net-Project-Page/). [paper](https://arxiv.org/abs/1911.04460v2). [code](https://github.com/albert100121/360SD-Net)
