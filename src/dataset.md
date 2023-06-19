@@ -5,3 +5,4 @@
 4. *Sceneflow* - (stereo, temporal)
 5. *ETH3D* - (stereo, multi-view)
 6. *TartanAir* - (stereo, temporal)
+7. *nuScenes* - (omni, multi-view)
