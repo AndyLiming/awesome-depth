@@ -1,3 +1,5 @@
+# Video and Temporal Depth Estimation
+1. Neural Video Depth Stabilizer. ICCV 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Neural_Video_Depth_Stabilizer_ICCV_2023_paper.pdf). [code](https://github.com/RaymondWang987/NVDS)
 1. Disentangling Object Motion and Occlusion for Unsupervised Multi-frame Monocular Depth. ECCV 2022. [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-19824-3_14/.pdf). [code](https://github.com/AutoAILab/DynamicDepth)
 2. Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Bae_Multi-View_Depth_Estimation_by_Fusing_Single-View_Depth_Probability_With_Multi-View_CVPR_2022_paper.pdf). [code](https://github.com/baegwangbin/MaGNet)
 3. Multi-Frame Self-Supervised Depth with Transformers. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Guizilini_Multi-Frame_Self-Supervised_Depth_With_Transformers_CVPR_2022_paper.pdf). [code](https://sites.google.com/tri.global/depthformer)
