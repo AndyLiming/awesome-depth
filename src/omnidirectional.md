@@ -8,6 +8,7 @@
 ## Estimate 360$^\circ$ depth maps from **Panoramas**
 
 ### Monocular
+1. EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation. ICCV 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yun_EGformer_Equirectangular_Geometry-biased_Transformer_for_360_Depth_Estimation_ICCV_2023_paper.pdf)
 1. PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation. ECCV 2022. [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-19769-7_12.pdf)
 2. OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_OmniFusion_360_Monocular_Depth_Estimation_via_Geometry-Aware_Fusion_CVPR_2022_paper.pdf). [code](https://github.com/yuyanli0831/OmniFusion).
 3. 360MonoDepth: High-Resolution 360° Monocular Depth Estimation. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Rey-Area_360MonoDepth_High-Resolution_360deg_Monocular_Depth_Estimation_CVPR_2022_paper.pdf). [code](https://manurare.github.io/360monodepth/)
